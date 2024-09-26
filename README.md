@@ -29,7 +29,7 @@ two template options.
 - Bare bones template
 
 ```bash
-quarto use template grantmcdermott/quarto-revealjs-clean
+quarto use template grahamarden/quarto-revealjs-clean
 ```
 
 - Full demo template
