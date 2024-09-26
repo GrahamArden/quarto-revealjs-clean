@@ -11,6 +11,11 @@ author:
     email: graham.arden@nhs.net
     affiliations: Radiation Physics Department, The Queen's Centre, Castle Hill Hospital
 date: last-modified
+title-slide-attributes:
+  data-background-image: ./images/NHS_Humber.png
+  data-background-size: contain
+  data-background-opacity: "0.8"
+incremental: true
 ---
 
 ## Example slide
