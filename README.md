@@ -1,5 +1,7 @@
 # Quarto clean theme
 
+## This is a local fork of Grant McDermott's original Quarto theme
+
 A minimalist and elegant presentation theme for Quarto Reveal.js, inspired by Kyle's
 [LaTex template](https://raw.githack.com/kylebutts/templates/master/latex-slides/slides.pdf).
 
@@ -16,7 +18,7 @@ commands to get started.
 If you would like to add the **clean** theme to an existing directory:
 
 ```bash
-quarto install extension grantmcdermott/quarto-revealjs-clean
+quarto install extension GrahamArden/quarto-revealjs-clean
 ```
 
 Alternatively, you can use a
@@ -29,11 +31,5 @@ two template options.
 - Bare bones template
 
 ```bash
-quarto use template grahamarden/quarto-revealjs-clean
-```
-
-- Full demo template
-
-```bash
-quarto use template grantmcdermott/quarto-revealjs-clean-demo
+quarto use template GrahamArden/quarto-revealjs-clean
 ```
