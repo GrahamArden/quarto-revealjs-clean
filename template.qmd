@@ -6,10 +6,10 @@ html-math-method:
   method: mathjax
   url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
 author:
-  - name: Your Name
-    orcid: 0000-0000-0000-0000
-    email: alias@email.com
-    affiliations: Your Institution
+  - name: "Graham Arden"
+    orcid: 0009-0009-4124-5518
+    email: graham.arden@nhs.net
+    affiliations: Radiation Physics Department, The Queen's Centre, Castle Hill Hospital
 date: last-modified
 ---
 
